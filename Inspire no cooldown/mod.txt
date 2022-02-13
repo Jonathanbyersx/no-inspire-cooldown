@@ -1,0 +1,13 @@
+{
+	"name" : "No inspire cooldown",
+	"description" : "No cooldown for inspire skill aced"
+	"author" : "aycenker",
+	"contact" : "cenkeraydn#0494",
+	"version" : "1.0",
+	"hooks" : [
+		{ 	
+	"hook_id" : "lib/managers/playermanager",
+	"script_path" : "INC.lua"
+		 }
+		]
+	}
